@@ -1,0 +1,17 @@
+#box1{
+    border: 1px solid red  ;
+    border-radius: 10px;
+    font-size: large;
+}
+#box2{
+    font-weight: bold ;
+    font-style: italic;
+}
+#box3{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 10px;
+}
+#box3 p {
+    color: white;
+}
